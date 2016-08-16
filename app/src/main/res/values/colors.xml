@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="LightPink">#FFB6C1</color>
+    <color name="LightSteelBlue">#B0C4DE</color>
+    <color name="LightSkyBlue">#87CEFA</color>
+    <color name="LightBLue">#ADD8E6</color>
+    <color name="LightSeaGreen">#20B2AA</color>
+    <color name="LightGreen">#90EE90</color>
+    <color name="LightYellow">#FFFFE0</color>
+    <color name="LightSalmon">#FFA07A</color>
+    <color name="LightCoral">#F08080</color>
+</resources>
